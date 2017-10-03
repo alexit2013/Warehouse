@@ -1,0 +1,162 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/bootstrap.js"></script>
+
+
+    <style type="text/css">
+        #FixedDiv {
+            width: 100px;
+            height: 100px;
+            text-align: center;
+            font-size: 18pt;
+            color: White;
+            border: 1px solid black;
+            background-color: purple;
+            top: 550px;
+            left: 850px;
+            position: fixed;
+        }
+    </style>
+
+    <button id="FixedDiv">
+        Save
+    </button>
+
+
+
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+
+                    <a class="navbar-brand" href="#">Настройка брендов</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class=""><a href="#">На главную<span class="sr-only">(current)</span></a></li>
+
+                        <li>
+                            <input type="button"  class="btn btn-info btn-lg" data-toggle="modal" data-target="#ModalAddNewBrand" value="Добавить новый бренд">
+                        </li>
+
+                    </ul>
+
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+    <div class="container">
+
+    </div>
+</head>
+    <body>
+
+        <div class="container-fluid">
+            <div class="row">
+
+
+
+                <div class="">
+                    <table id="brand_table" class="table table-hover table-inverse">
+                        <thead>
+                        <tr>
+                            <th>id</th>
+                            <th>Название</th>
+                            <th>Отображать</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+
+                            <tr>
+                                <td>BOSCH</td>
+                                <td><input type="checkbox" ></td>
+                                <td>1</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+        </div>
+    </body>
+
+<div id="ModalAddNewBrand" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Добавление нового бренда</h4>
+            </div>
+            <div class="modal-body">
+
+                <div class="form-group row">
+                    <label   for="inputEmail3" class="col-2 col-form-label">Название</label>
+                    <div class="col-3">
+                        <input  onkeyup ="myFunction(this)" type="search" class="form-control" name="article" id="art" placeholder="">
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Add</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</html>

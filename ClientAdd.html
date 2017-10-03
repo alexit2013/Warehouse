@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/bootstrap.js"></script>
+
+
+    <link rel="stylesheet" href="css/bootstrap-select.css">
+
+    <script src="js/bootstrap-select.js"></script>
+
+
+
+</head>
+<body>
+
+<form action="#" id="article_form" method="POST">
+    <div class="form-group row">
+        <label   for="inputEmail3" class="col-md-2 col-form-label">ФИО</label>
+        <div class="col-md-5">
+            <input  onkeyup ="SearchArticle(this)" type="search" class="form-control" name="article" id="art" placeholder="">
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label   for="inputEmail3" class="col-md-2 col-form-label">Телефон</label>
+        <div class="col-md-5">
+            <input  onkeyup ="SearchArticle(this)" type="search" class="form-control" name="article" id="art" placeholder="">
+        </div>
+    </div>
+
+</form>
+
+<div class="container">
+    <form class="form-horizontal" role="form">
+        <div class="form-group">
+            <label for="basic" class="col-lg-2 control-label">Марка</label>
+
+            <div class="col-lg-10">
+                <select id="basic" class="selectpicker show-tick form-control" data-live-search="true">
+                    <option>cow</option>
+                    <option data-subtext="option subtext">bull</option>
+                    <option class="get-class" disabled>ox</option>
+                    <optgroup label="test" data-subtext="optgroup subtext">
+                        <option>BMW</option>
+                        <option selected>AUDI</option>
+                        <option>OPEL</option>
+                    </optgroup>
+                </select>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="container">
+    <form class="form-horizontal" role="form">
+        <div class="form-group">
+            <label for="basic" class="col-lg-2 control-label">Модель</label>
+
+            <div class="col-lg-10">
+                <select id="basic" class="selectpicker show-tick form-control" data-live-search="true">
+                    <option>cow</option>
+                    <option data-subtext="option subtext">bull</option>
+                    <option class="get-class" disabled>ox</option>
+                    <optgroup label="test" data-subtext="optgroup subtext">
+                        <option>BMW</option>
+                        <option selected>AUDI</option>
+                        <option>OPEL</option>
+                    </optgroup>
+                </select>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="container-fluid">
+
+        <div class="form-group row">
+            <label    class="col-md-2  col-form-label">VIN</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+    <p>BMW 5 e39 2.5 td</p>
+
+        <div class="form-group row">
+        <label     class="col-md-1  col-form-label">ABS</label>
+            <div class="col-md-1">
+                <input class="form-control"  onkeyup ="SearchArticle(this)" type="checkbox" class="form-control" name="article" id="art" placeholder="">
+            </div>
+         </div>
+
+        <div class="form-group row">
+            <label class="col-md-2 col-form-label">Тормаза зад</label>
+            <div class="col-md-2">
+                <input type="radio" name="browser" value="ie">Диски<Br>
+                <input type="radio" name="browser" value="opera">Барабаны<Br>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label  class="col-md-2 col-form-label">Фильтр Масленный</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label    class="col-md-2  col-form-label">Фильтр Воздушный</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label    class="col-md-2  col-form-label">Фильтр Топливный</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label     class="col-md-2 col-form-label">Масло моторное</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label     class="col-md-2  col-form-label">Колодки тормозные перед</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label    class="col-md-2  col-form-label">Колодки тормозные зад</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label     class="col-md-2  col-form-label">Диски тормозные перед</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label    class="col-md-2   ">Диски тормозные зад</label>
+            <div class="col-md-2">
+                <input class="form-control " name="oil_filter" type="text">
+            </div>
+        </div>
+
+            <div class="row">
+                <button>Добавить автомобиль</button>
+            </div>
+
+
+
+</div>
+
+<button>Добавить клиента</button>
+
+</body>
+
+<script>
+    $(document).ready(function () {
+        var mySelect = $('#first-disabled2');
+
+        $('#special').on('click', function () {
+            mySelect.find('option:selected').prop('disabled', true);
+            mySelect.selectpicker('refresh');
+        });
+
+        $('#special2').on('click', function () {
+            mySelect.find('option:disabled').prop('disabled', false);
+            mySelect.selectpicker('refresh');
+        });
+
+        $('#basic2').selectpicker({
+            liveSearch: true,
+            maxOptions: 1
+        });
+    });
+</script>
+
+</html>
