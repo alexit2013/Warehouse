@@ -1,0 +1,1584 @@
+{
+    "queryResult": {
+        "content": [
+            {
+                "ecoId": "test1_requests_concur.data-value[1]",
+                "schemaRegistryId": 2577,
+                "subject": "test1_requests_concur.data-value",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "sre_request_details",
+                "namespace": "com.epam.expm.request_details",
+                "fullName": "com.epam.expm.request_details.sre_request_details"
+            },
+            {
+                "ecoId": "epm-staf-stag.public.m_applicant[1]",
+                "schemaRegistryId": 5686,
+                "subject": "epm-staf-stag.public.m_applicant",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "m_applicant",
+                "namespace": "epm-staf-stag.public",
+                "fullName": "epm-staf-stag.public.m_applicant"
+            },
+            {
+                "ecoId": "epm-crm.qa.v1.dbo.BusinessUnitBase[2]",
+                "schemaRegistryId": 8300,
+                "subject": "epm-crm.qa.v1.dbo.BusinessUnitBase",
+                "version": 2,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "BusinessUnitBase",
+                "namespace": "epm-crm.qa.v1.dbo",
+                "fullName": "epm-crm.qa.v1.dbo.BusinessUnitBase"
+            },
+            {
+                "ecoId": "epm-crm.qa.v1.dbo.BusinessUnitBase[1]",
+                "schemaRegistryId": 8088,
+                "subject": "epm-crm.qa.v1.dbo.BusinessUnitBase",
+                "version": 1,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "BusinessUnitBase",
+                "namespace": "epm-crm.qa.v1.dbo",
+                "fullName": "epm-crm.qa.v1.dbo.BusinessUnitBase"
+            },
+            {
+                "ecoId": "datahub.epm_crm.qa.v1.epam_glaccountsettingsBase[1]",
+                "schemaRegistryId": 8126,
+                "subject": "datahub.epm_crm.qa.v1.epam_glaccountsettingsBase",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "epam_glaccountsettingsBase",
+                "namespace": "com.epam.datahub.crm",
+                "fullName": "com.epam.datahub.crm.epam_glaccountsettingsBase"
+            },
+            {
+                "ecoId": "datahub.epm_staf.integration.v3.m_attachments[1]",
+                "schemaRegistryId": 6274,
+                "subject": "datahub.epm_staf.integration.v3.m_attachments",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "m_attachments",
+                "namespace": "com.epam.datahub.sdt",
+                "fullName": "com.epam.datahub.sdt.m_attachments"
+            },
+            {
+                "ecoId": "epm-crm.stag.v2.dbo.epam_upsarevenueBase[1]",
+                "schemaRegistryId": 7428,
+                "subject": "epm-crm.stag.v2.dbo.epam_upsarevenueBase",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "epam_upsarevenueBase",
+                "namespace": "epm-crm.stag.v2.dbo",
+                "fullName": "epm-crm.stag.v2.dbo.epam_upsarevenueBase"
+            },
+            {
+                "ecoId": "epm-staf.integration.v5.public.m_job_post_candidate[2]",
+                "schemaRegistryId": 6713,
+                "subject": "epm-staf.integration.v5.public.m_job_post_candidate",
+                "version": 2,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "m_job_post_candidate",
+                "namespace": "epm-staf.integration.v5.public",
+                "fullName": "epm-staf.integration.v5.public.m_job_post_candidate"
+            },
+            {
+                "ecoId": "epm-staf.integration.v5.public.m_job_post_candidate[1]",
+                "schemaRegistryId": 6501,
+                "subject": "epm-staf.integration.v5.public.m_job_post_candidate",
+                "version": 1,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "m_job_post_candidate",
+                "namespace": "epm-staf.integration.v5.public",
+                "fullName": "epm-staf.integration.v5.public.m_job_post_candidate"
+            },
+            {
+                "ecoId": "epm-sap.test_t1-key[1]",
+                "schemaRegistryId": 70,
+                "subject": "epm-sap.test_t1-key",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": null,
+                "namespace": null,
+                "fullName": null
+            },
+            {
+                "ecoId": "datahub.concur.dev.sre_entry[1]",
+                "schemaRegistryId": 2842,
+                "subject": "datahub.concur.dev.sre_entry",
+                "version": 1,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "sre_entry",
+                "namespace": "com.epam.datahub.concur",
+                "fullName": "com.epam.datahub.concur.sre_entry"
+            },
+            {
+                "ecoId": "NOtOGHeSJEhOMkTEKWbG[2]",
+                "schemaRegistryId": 4200,
+                "subject": "NOtOGHeSJEhOMkTEKWbG",
+                "version": 2,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "erqXakYoCQFnwRDwiiInvqUqZh",
+                "namespace": "aatdwgoxxotybnxeqtmwgl",
+                "fullName": "aatdwgoxxotybnxeqtmwgl.erqXakYoCQFnwRDwiiInvqUqZh"
+            },
+            {
+                "ecoId": "pLlnfEiVoQEtCfZpN[2]",
+                "schemaRegistryId": 1698,
+                "subject": "pLlnfEiVoQEtCfZpN",
+                "version": 2,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "KpXBIdHJuyYKIIXTUjqCbtyz",
+                "namespace": "ousuwsvztjwkyqred",
+                "fullName": "ousuwsvztjwkyqred.KpXBIdHJuyYKIIXTUjqCbtyz"
+            },
+            {
+                "ecoId": "NOtOGHeSJEhOMkTEKWbG[3]",
+                "schemaRegistryId": 4201,
+                "subject": "NOtOGHeSJEhOMkTEKWbG",
+                "version": 3,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "WfEMYZfCaPlTBLElq",
+                "namespace": "aatdwgoxxotybnxeqtmwgl",
+                "fullName": "aatdwgoxxotybnxeqtmwgl.WfEMYZfCaPlTBLElq"
+            },
+            {
+                "ecoId": "pLlnfEiVoQEtCfZpN[3]",
+                "schemaRegistryId": 1699,
+                "subject": "pLlnfEiVoQEtCfZpN",
+                "version": 3,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "gETTimPEHd",
+                "namespace": "ousuwsvztjwkyqred",
+                "fullName": "ousuwsvztjwkyqred.gETTimPEHd"
+            },
+            {
+                "ecoId": "NOtOGHeSJEhOMkTEKWbG[1]",
+                "schemaRegistryId": 4199,
+                "subject": "NOtOGHeSJEhOMkTEKWbG",
+                "version": 1,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "pgfIrZUTPzTxNbDFULOlEtuxj",
+                "namespace": "aatdwgoxxotybnxeqtmwgl",
+                "fullName": "aatdwgoxxotybnxeqtmwgl.pgfIrZUTPzTxNbDFULOlEtuxj"
+            },
+            {
+                "ecoId": "pLlnfEiVoQEtCfZpN[1]",
+                "schemaRegistryId": 1697,
+                "subject": "pLlnfEiVoQEtCfZpN",
+                "version": 1,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "vWGxzMWLyZd",
+                "namespace": "ousuwsvztjwkyqred",
+                "fullName": "ousuwsvztjwkyqred.vWGxzMWLyZd"
+            },
+            {
+                "ecoId": "datahub.epm_upsa.m_employee_training.v1[2]",
+                "schemaRegistryId": 7594,
+                "subject": "datahub.epm_upsa.m_employee_training.v1",
+                "version": 2,
+                "versionLatest": true,
+                "compatibility": "BACKWARD",
+                "name": "m_employee_training",
+                "namespace": "com.epam.datahub.upsa",
+                "fullName": "com.epam.datahub.upsa.m_employee_training"
+            },
+            {
+                "ecoId": "datahub.epm_upsa.m_employee_training.v1[1]",
+                "schemaRegistryId": 5192,
+                "subject": "datahub.epm_upsa.m_employee_training.v1",
+                "version": 1,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "m_employee_training",
+                "namespace": "com.epam.datahub.upsa",
+                "fullName": "com.epam.datahub.upsa.m_employee_training"
+            },
+            {
+                "ecoId": "epm-upsa.PMC_UPSA.M_EMPLOYEE-value[9]",
+                "schemaRegistryId": 7642,
+                "subject": "epm-upsa.PMC_UPSA.M_EMPLOYEE-value",
+                "version": 9,
+                "versionLatest": false,
+                "compatibility": "BACKWARD",
+                "name": "M_EMPLOYEE",
+                "namespace": "PMC_UPSA",
+                "fullName": "PMC_UPSA.M_EMPLOYEE"
+            }
+        ],
+        "totalPages": 55,
+        "totalElements": 1099,
+        "last": false,
+        "size": 20,
+        "number": 0,
+        "first": true,
+        "sort": null,
+        "numberOfElements": 20
+    },
+    "aggregations": {
+        "versionLatest": [
+            {
+                "value": "1",
+                "amount": 674
+            },
+            {
+                "value": "0",
+                "amount": 425
+            }
+        ],
+        "namespace": [
+            {
+                "value": "com.epam.datahub.sdt",
+                "amount": 114
+            },
+            {
+                "value": "PMC_UPSA",
+                "amount": 44
+            },
+            {
+                "value": "com.epam.datahub.crm",
+                "amount": 35
+            },
+            {
+                "value": "com.epam.api.tmc",
+                "amount": 22
+            },
+            {
+                "value": "epm-staf.integration.v7.public",
+                "amount": 21
+            },
+            {
+                "value": "epm-staf.qa.v1.public",
+                "amount": 21
+            },
+            {
+                "value": "epm-staf-qaint-v4.public",
+                "amount": 20
+            },
+            {
+                "value": "epm-staf.integration.v6.public",
+                "amount": 16
+            },
+            {
+                "value": "PMC_SYSTEM",
+                "amount": 15
+            },
+            {
+                "value": "com.epam.datahub.upsa",
+                "amount": 14
+            },
+            {
+                "value": "epm-staf.integration.v5.public",
+                "amount": 14
+            },
+            {
+                "value": "com.epam.api.eco",
+                "amount": 11
+            },
+            {
+                "value": "epm-staf.stag.v1.public",
+                "amount": 10
+            },
+            {
+                "value": "epm-staf-stag.public",
+                "amount": 9
+            },
+            {
+                "value": "epm-staf.integration.v3.public",
+                "amount": 9
+            },
+            {
+                "value": "com.epam.api.comp",
+                "amount": 7
+            },
+            {
+                "value": "epm-crm.dbo",
+                "amount": 7
+            },
+            {
+                "value": "epm-crm.stag.v2.dbo",
+                "amount": 7
+            },
+            {
+                "value": "com.epam.datahub.pmc",
+                "amount": 6
+            },
+            {
+                "value": "epm-staf-qaint-v2.public",
+                "amount": 6
+            },
+            {
+                "value": "epm-staf-qaint.public",
+                "amount": 6
+            },
+            {
+                "value": "epm-staf.integration.v4.public",
+                "amount": 6
+            },
+            {
+                "value": "com.epam.eco.examples",
+                "amount": 5
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo",
+                "amount": 5
+            },
+            {
+                "value": "epm-staf-qaint-v3.public",
+                "amount": 5
+            },
+            {
+                "value": "epm-staf-tmp.public",
+                "amount": 5
+            },
+            {
+                "value": "epm-staf.integration.v2.public",
+                "amount": 4
+            },
+            {
+                "value": "namespace1",
+                "amount": 4
+            },
+            {
+                "value": "aatdwgoxxotybnxeqtmwgl",
+                "amount": 3
+            },
+            {
+                "value": "agkzzsksqltapewlyhayow",
+                "amount": 3
+            },
+            {
+                "value": "aiog",
+                "amount": 3
+            },
+            {
+                "value": "alpgsjuoofkehffcggkdiwt",
+                "amount": 3
+            },
+            {
+                "value": "aqzhlaxksvjdujqgozvsuq",
+                "amount": 3
+            },
+            {
+                "value": "avppmudtsqsaghfyodipoppueptjq",
+                "amount": 3
+            },
+            {
+                "value": "booztznygqfltsgexvmoygsob",
+                "amount": 3
+            },
+            {
+                "value": "ccazcdenklsmwnzhuzxhzs",
+                "amount": 3
+            },
+            {
+                "value": "com.epam.api.tmc.programstudio",
+                "amount": 3
+            },
+            {
+                "value": "cpedztucbjlmnk",
+                "amount": 3
+            },
+            {
+                "value": "cumeldfzgkzathlxriepmnoyru",
+                "amount": 3
+            },
+            {
+                "value": "debqmnqleigqg",
+                "amount": 3
+            },
+            {
+                "value": "doutffojsukvqkxfqbebuctrifwvkfud",
+                "amount": 3
+            },
+            {
+                "value": "drqllsxfneopvkigouvdsq",
+                "amount": 3
+            },
+            {
+                "value": "dtavjl",
+                "amount": 3
+            },
+            {
+                "value": "dzqojzawezkifb",
+                "amount": 3
+            },
+            {
+                "value": "eadsyqtiihvbfukdwpsbpp",
+                "amount": 3
+            },
+            {
+                "value": "ebmfykvqxnrkwfebi",
+                "amount": 3
+            },
+            {
+                "value": "edruogkereqoxqwe",
+                "amount": 3
+            },
+            {
+                "value": "epm-crm-qa2_0.dbo",
+                "amount": 3
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.OpportunityBase",
+                "amount": 3
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.epam_fflineBase",
+                "amount": 3
+            },
+            {
+                "value": "epm-crm.stag.v1.dbo",
+                "amount": 3
+            },
+            {
+                "value": "epm-staf.public",
+                "amount": 3
+            },
+            {
+                "value": "epm-vts-test.public",
+                "amount": 3
+            },
+            {
+                "value": "esdzrvn",
+                "amount": 3
+            },
+            {
+                "value": "fi",
+                "amount": 3
+            },
+            {
+                "value": "ftijtsugryvhv",
+                "amount": 3
+            },
+            {
+                "value": "fxkwvl",
+                "amount": 3
+            },
+            {
+                "value": "gaaakkkiipwkbbowaismeewdzg",
+                "amount": 3
+            },
+            {
+                "value": "gdiemamqeciagjrcyjooglukgeqaw",
+                "amount": 3
+            },
+            {
+                "value": "gflgndtwktfobcnzapwfntyh",
+                "amount": 3
+            },
+            {
+                "value": "grigibaxupevyflxyanjgjb",
+                "amount": 3
+            },
+            {
+                "value": "gwqzfyupbrids",
+                "amount": 3
+            },
+            {
+                "value": "hgfuqkmk",
+                "amount": 3
+            },
+            {
+                "value": "hjxjzermxtcxwhybtmaobhgeiy",
+                "amount": 3
+            },
+            {
+                "value": "hmpdvhnawfdzx",
+                "amount": 3
+            },
+            {
+                "value": "hnwwevrytayuusdbjau",
+                "amount": 3
+            },
+            {
+                "value": "ibrimgacdmentwkpcfrmyjjrdqnpfw",
+                "amount": 3
+            },
+            {
+                "value": "ictrpgokyzritqmkzylizrqkdde",
+                "amount": 3
+            },
+            {
+                "value": "iesklpndvragcwlyu",
+                "amount": 3
+            },
+            {
+                "value": "iyresoucb",
+                "amount": 3
+            },
+            {
+                "value": "jcfrfzbhqrxgw",
+                "amount": 3
+            },
+            {
+                "value": "jdtkogamhpoqpoihsmdnlnzjfpepgajc",
+                "amount": 3
+            },
+            {
+                "value": "jiusuwzyurizhonhwx",
+                "amount": 3
+            },
+            {
+                "value": "juwvblvuuhsdgkqrwoqtkkxdwgobupr",
+                "amount": 3
+            },
+            {
+                "value": "kanhvmhytaowrfgxproclijlgrqyeiu",
+                "amount": 3
+            },
+            {
+                "value": "kcjlkrrjxktzjwodpxnkrx",
+                "amount": 3
+            },
+            {
+                "value": "kjxdglqcyieywldrdiwyyhomfvhgn",
+                "amount": 3
+            },
+            {
+                "value": "kmzuyzqoigoeoqiglqz",
+                "amount": 3
+            },
+            {
+                "value": "kwjqygzl",
+                "amount": 3
+            },
+            {
+                "value": "lfroquscpgjlownxrweemwlcd",
+                "amount": 3
+            },
+            {
+                "value": "ljsrrjixq",
+                "amount": 3
+            },
+            {
+                "value": "lndrohhsrclopuzjspkfrobvwpm",
+                "amount": 3
+            },
+            {
+                "value": "lwfwjmqlxjtxiyyrpdqiknxxcllwuj",
+                "amount": 3
+            },
+            {
+                "value": "mtnkumeudjakto",
+                "amount": 3
+            },
+            {
+                "value": "mwncbxezoozzxfscstfcyfbgh",
+                "amount": 3
+            },
+            {
+                "value": "n",
+                "amount": 3
+            },
+            {
+                "value": "nzllyjkgpjuumbglhqcl",
+                "amount": 3
+            },
+            {
+                "value": "obdylqmwxbsyewabwaviycwcpzen",
+                "amount": 3
+            },
+            {
+                "value": "ofjtoqgxxizuvxnsjamrrwmufztkhjp",
+                "amount": 3
+            },
+            {
+                "value": "oilvxyrbivexlryyvkbu",
+                "amount": 3
+            },
+            {
+                "value": "oimfvbzasrtdxwyxeorrhze",
+                "amount": 3
+            },
+            {
+                "value": "ousuwsvztjwkyqred",
+                "amount": 3
+            },
+            {
+                "value": "oxwiiasbntafspvmqmkgffrzrsvdml",
+                "amount": 3
+            },
+            {
+                "value": "pbdocpzjdtybpqwpa",
+                "amount": 3
+            },
+            {
+                "value": "pjggskhtwbeucpmkiv",
+                "amount": 3
+            },
+            {
+                "value": "pvdxhdlsxhjfrcgloeafbtfrfr",
+                "amount": 3
+            },
+            {
+                "value": "qdfrbpmbgnehcpyrysklraslxnfshsnf",
+                "amount": 3
+            },
+            {
+                "value": "qjhnspjbvopqxhzjpevagfbjkm",
+                "amount": 3
+            },
+            {
+                "value": "qwnzl",
+                "amount": 3
+            },
+            {
+                "value": "qxgthxiynlzursutyadnvzbpzgg",
+                "amount": 3
+            },
+            {
+                "value": "rhhddkvtprur",
+                "amount": 3
+            },
+            {
+                "value": "rkvpcikw",
+                "amount": 3
+            },
+            {
+                "value": "rqtniozynvhmjvkwjqdfht",
+                "amount": 3
+            },
+            {
+                "value": "sauwugtnkuvh",
+                "amount": 3
+            },
+            {
+                "value": "sdmgtzqlehwanjrpowmvvuwokpddtct",
+                "amount": 3
+            },
+            {
+                "value": "ssdkkbhiwqjwlymtkjmpvmzsk",
+                "amount": 3
+            },
+            {
+                "value": "swp",
+                "amount": 3
+            },
+            {
+                "value": "test_ihar.ta_head",
+                "amount": 3
+            },
+            {
+                "value": "uncrkyfvelvlvwazuqimmfftg",
+                "amount": 3
+            },
+            {
+                "value": "uofe",
+                "amount": 3
+            },
+            {
+                "value": "uqaaipxtpyqivyc",
+                "amount": 3
+            },
+            {
+                "value": "vtajbqimqclvacovnwewfntng",
+                "amount": 3
+            },
+            {
+                "value": "wabapgoyifp",
+                "amount": 3
+            },
+            {
+                "value": "wllavusyvjenxdqtmjkvmxnttcjvqebigsw",
+                "amount": 3
+            },
+            {
+                "value": "xfhjhalagfsvrmhqqgxg",
+                "amount": 3
+            },
+            {
+                "value": "xjdsyrhpnsvfkei",
+                "amount": 3
+            },
+            {
+                "value": "xoduhgdfyqrlg",
+                "amount": 3
+            },
+            {
+                "value": "xpg",
+                "amount": 3
+            },
+            {
+                "value": "xwfexgrgmfzzrirpecxticeqhdfh",
+                "amount": 3
+            },
+            {
+                "value": "xydcofzypsyhzylywpqji",
+                "amount": 3
+            },
+            {
+                "value": "ynysvieiogciletoitakejxixua",
+                "amount": 3
+            },
+            {
+                "value": "yzbnuiuqaiwmeldwzxroa",
+                "amount": 3
+            },
+            {
+                "value": "zaprhhrpluwbjykv",
+                "amount": 3
+            },
+            {
+                "value": "zfjarghxgaivmpfroujjvwjinuxtnul",
+                "amount": 3
+            },
+            {
+                "value": "zjuofufrthkfyltclkxfrcsbhzbdrdey",
+                "amount": 3
+            },
+            {
+                "value": "zssdntikwetzqmunafzvheqkxpn",
+                "amount": 3
+            },
+            {
+                "value": "zyklblvshwusgknsnvndgqzadflxmp",
+                "amount": 3
+            },
+            {
+                "value": "AUD_PMC_UPSA",
+                "amount": 2
+            },
+            {
+                "value": "adomsuqlvnqepdkzvkcqeziocc",
+                "amount": 2
+            },
+            {
+                "value": "auplmqustlkc",
+                "amount": 2
+            },
+            {
+                "value": "bbqxuftllpqczvlirslipxahekkdz",
+                "amount": 2
+            },
+            {
+                "value": "becmkwruiqv",
+                "amount": 2
+            },
+            {
+                "value": "blesggoggawsqujvacnfzlt",
+                "amount": 2
+            },
+            {
+                "value": "bydzpakvallgcw",
+                "amount": 2
+            },
+            {
+                "value": "cdkioqsholjxpqfbnnq",
+                "amount": 2
+            },
+            {
+                "value": "ceepunhuonzohxkvqw",
+                "amount": 2
+            },
+            {
+                "value": "clmuwgnzlurwdbissfqlkcmc",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.api.grow",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.api.talk.compensation.integration",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.api.talk.upsa.integration",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.datahub.concur",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.datahub.concur.detail",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.expm.request_details",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.expm.sae",
+                "amount": 2
+            },
+            {
+                "value": "com.epam.hit.datahub",
+                "amount": 2
+            },
+            {
+                "value": "cwjqpfjrhatqgigzx",
+                "amount": 2
+            },
+            {
+                "value": "djesusdkyk",
+                "amount": 2
+            },
+            {
+                "value": "dmcowyihdnlurwoduael",
+                "amount": 2
+            },
+            {
+                "value": "epm-crm-qa2.dbo",
+                "amount": 2
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.epam_invoicerequestBase",
+                "amount": 2
+            },
+            {
+                "value": "epm-crm.stag.v2.dbo.InvoiceBase",
+                "amount": 2
+            },
+            {
+                "value": "epm-hero.demo.v1.heroes",
+                "amount": 2
+            },
+            {
+                "value": "epm-sap",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf-file-replication3.public",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf-file-replication4.public",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.l_role_seniority_level",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.m_recent_view_item",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf.test.v1.information_schema",
+                "amount": 2
+            },
+            {
+                "value": "epm-staf.test.v1.pg_catalog",
+                "amount": 2
+            },
+            {
+                "value": "eyxyvgrkrdznkghuswlpgmwdpttiqvtwcqvk",
+                "amount": 2
+            },
+            {
+                "value": "fcxisufvjwwknbp",
+                "amount": 2
+            },
+            {
+                "value": "fda",
+                "amount": 2
+            },
+            {
+                "value": "flapjxcl",
+                "amount": 2
+            },
+            {
+                "value": "fpyztctixzzqfhne",
+                "amount": 2
+            },
+            {
+                "value": "fyg",
+                "amount": 2
+            },
+            {
+                "value": "fyumczbonxcgmkzxlfztwvjxgdvoh",
+                "amount": 2
+            },
+            {
+                "value": "gcmbjbkexsfmyxuohtr",
+                "amount": 2
+            },
+            {
+                "value": "gkqxhdulblse",
+                "amount": 2
+            },
+            {
+                "value": "gosxyiucvkttejzgoabnhxbwcbm",
+                "amount": 2
+            },
+            {
+                "value": "gwxpveaabfmxqchwfvmpg",
+                "amount": 2
+            },
+            {
+                "value": "gy",
+                "amount": 2
+            },
+            {
+                "value": "hcpjfmcnwcteshqxoogjrmf",
+                "amount": 2
+            },
+            {
+                "value": "hewjjg",
+                "amount": 2
+            },
+            {
+                "value": "hxjcauwbkvktvdlic",
+                "amount": 2
+            },
+            {
+                "value": "iboqchxtscxccqiuzaiamiqpvrjrylry",
+                "amount": 2
+            },
+            {
+                "value": "igmax",
+                "amount": 2
+            },
+            {
+                "value": "ikvvcpvsgfcvznegfb",
+                "amount": 2
+            },
+            {
+                "value": "iqt",
+                "amount": 2
+            },
+            {
+                "value": "irnfhaeqleioezmqenvqmeuguqltofmu",
+                "amount": 2
+            },
+            {
+                "value": "isnrgkmlkpyaxacokuylulv",
+                "amount": 2
+            },
+            {
+                "value": "itfdltqks",
+                "amount": 2
+            },
+            {
+                "value": "jccvzw",
+                "amount": 2
+            },
+            {
+                "value": "jdrcekkmayb",
+                "amount": 2
+            },
+            {
+                "value": "jews",
+                "amount": 2
+            },
+            {
+                "value": "jijmkhsojfwykvavwjivguu",
+                "amount": 2
+            },
+            {
+                "value": "jkpwpbegdgbjejpoolm",
+                "amount": 2
+            },
+            {
+                "value": "jmiyqzyourljqvqlyzbygakekeidj",
+                "amount": 2
+            },
+            {
+                "value": "jsdd",
+                "amount": 2
+            },
+            {
+                "value": "jtci",
+                "amount": 2
+            },
+            {
+                "value": "kjdxtwfq",
+                "amount": 2
+            },
+            {
+                "value": "kmmhkwsstalmtctxpfs",
+                "amount": 2
+            },
+            {
+                "value": "kmxgnkxl",
+                "amount": 2
+            },
+            {
+                "value": "kyatexsgkkfmlraxybdkhzxardjybll",
+                "amount": 2
+            },
+            {
+                "value": "ljfktzeshlulw",
+                "amount": 2
+            },
+            {
+                "value": "lkqktqbbughvfvutswrnoaokfhexfnk",
+                "amount": 2
+            },
+            {
+                "value": "lkz",
+                "amount": 2
+            },
+            {
+                "value": "lplkfbrotwkvj",
+                "amount": 2
+            },
+            {
+                "value": "mahjnadjmsirunwphyxonuyt",
+                "amount": 2
+            },
+            {
+                "value": "mkhpglhutelzsittirse",
+                "amount": 2
+            },
+            {
+                "value": "mmlwkdlckdbwvbdtbxvpsjlpmetmcl",
+                "amount": 2
+            },
+            {
+                "value": "mnwxscvrxugmgdjkvehkkputgggnb",
+                "amount": 2
+            },
+            {
+                "value": "mtbzcllnyew",
+                "amount": 2
+            },
+            {
+                "value": "nkshdhwmugxtlffeadnacvcdfpumewasowsqwrtn",
+                "amount": 2
+            },
+            {
+                "value": "oswqctagxcmtwmasfxfdcvxwaawxoi",
+                "amount": 2
+            },
+            {
+                "value": "ozlnddlplzjjvletqzjrwqy",
+                "amount": 2
+            },
+            {
+                "value": "pbimlwcre",
+                "amount": 2
+            },
+            {
+                "value": "piizicoeapsod",
+                "amount": 2
+            },
+            {
+                "value": "pkhqzslzamtasuimrkbwivpczikecwl",
+                "amount": 2
+            },
+            {
+                "value": "pwhljgnjwwufgfp",
+                "amount": 2
+            },
+            {
+                "value": "qd",
+                "amount": 2
+            },
+            {
+                "value": "qddllkdztldxybs",
+                "amount": 2
+            },
+            {
+                "value": "qdupzutbpiwvplxplavrpojeoptbh",
+                "amount": 2
+            },
+            {
+                "value": "qgdqelygskpxusmmrewipnvb",
+                "amount": 2
+            },
+            {
+                "value": "qhvgmdvuvypkdrdx",
+                "amount": 2
+            },
+            {
+                "value": "qjux",
+                "amount": 2
+            },
+            {
+                "value": "ra",
+                "amount": 2
+            },
+            {
+                "value": "rdosbbovzavsesigcelc",
+                "amount": 2
+            },
+            {
+                "value": "rkhzmcimoeedrrhduqpuvlkoydst",
+                "amount": 2
+            },
+            {
+                "value": "rqbdc",
+                "amount": 2
+            },
+            {
+                "value": "rrdpphlwzigyurvyon",
+                "amount": 2
+            },
+            {
+                "value": "rsjdqsuwwyqu",
+                "amount": 2
+            },
+            {
+                "value": "rvflfvposbrimfhd",
+                "amount": 2
+            },
+            {
+                "value": "rxgddkotqbfgefhmhpyaonpl",
+                "amount": 2
+            },
+            {
+                "value": "s",
+                "amount": 2
+            },
+            {
+                "value": "sfnxtwfkpcypaiapwfrhgj",
+                "amount": 2
+            },
+            {
+                "value": "sl",
+                "amount": 2
+            },
+            {
+                "value": "sqnnme",
+                "amount": 2
+            },
+            {
+                "value": "tflcrcgkbcrdimcpyspccyidv",
+                "amount": 2
+            },
+            {
+                "value": "uzyuccjtiaqhiirwjcvuxtgybgraci",
+                "amount": 2
+            },
+            {
+                "value": "vbonnrk",
+                "amount": 2
+            },
+            {
+                "value": "vkyaysacibggrbyo",
+                "amount": 2
+            },
+            {
+                "value": "vmurantwe",
+                "amount": 2
+            },
+            {
+                "value": "voexjpsmksivthilzmimymow",
+                "amount": 2
+            },
+            {
+                "value": "wgnk",
+                "amount": 2
+            },
+            {
+                "value": "wsdxhmt",
+                "amount": 2
+            },
+            {
+                "value": "wtodnosgnwwoyfbksi",
+                "amount": 2
+            },
+            {
+                "value": "wwo",
+                "amount": 2
+            },
+            {
+                "value": "xmvuunpkvfqdws",
+                "amount": 2
+            },
+            {
+                "value": "xowvziuoyqonnutq",
+                "amount": 2
+            },
+            {
+                "value": "yedvqdbuvbdhvtogpfeuzpjuqesuiulfmws",
+                "amount": 2
+            },
+            {
+                "value": "ykjuukdgh",
+                "amount": 2
+            },
+            {
+                "value": "yngjevtghcuzhyckscdjogtke",
+                "amount": 2
+            },
+            {
+                "value": "ynmylammdmurifwlgekxk",
+                "amount": 2
+            },
+            {
+                "value": "ysunoemjyraalwqwjojywfjrfovdavevow",
+                "amount": 2
+            },
+            {
+                "value": "zbyode",
+                "amount": 2
+            },
+            {
+                "value": "zcumjpgcihtrrorqkrf",
+                "amount": 2
+            },
+            {
+                "value": "zghqfqezwgnhgiwqfeo",
+                "amount": 2
+            },
+            {
+                "value": "zug",
+                "amount": 2
+            },
+            {
+                "value": "zwcrceqvgsjjfpjttvxrpz",
+                "amount": 2
+            },
+            {
+                "value": "AZ",
+                "amount": 1
+            },
+            {
+                "value": "Namespace4537",
+                "amount": 1
+            },
+            {
+                "value": "OVERRIDDEN_SCHEMA",
+                "amount": 1
+            },
+            {
+                "value": "aldlcwgybbyjuluvsmrtpjljht",
+                "amount": 1
+            },
+            {
+                "value": "ao",
+                "amount": 1
+            },
+            {
+                "value": "bghmqwxtgvrzxnsddndpjdpfzbuzeyb",
+                "amount": 1
+            },
+            {
+                "value": "bjgxmdjph",
+                "amount": 1
+            },
+            {
+                "value": "bprxhoavohyxjlfmmm",
+                "amount": 1
+            },
+            {
+                "value": "cdyugezreesbqrllhzubvfhokseaapzj",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.api.talk.integration",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.datahub.concur.stage",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.datahub.datafactory.datafactory_test.v2",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.datahub.datafactory.raw.emis_data",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.epm_srdr",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.expm.payconfirm",
+                "amount": 1
+            },
+            {
+                "value": "com.epam.hit.avro",
+                "amount": 1
+            },
+            {
+                "value": "com1.epam.eco.examples11",
+                "amount": 1
+            },
+            {
+                "value": "concur",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm-stag.dbo",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm-stag.dbo.AccountBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm-stag.dbo.epam_billingaccountBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm-stag.dbo.epam_contract_epam_projectBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.MetadataSchema.Entity",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.dbo.MailboxBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.dbo.QueueBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.dbo.epam_invoicerequestBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.dbo.epam_projectBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.LeadAddressBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.QueueBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.StringMapBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.epam_dealBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.qa.v1.dbo.epam_upsarevenueBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.stag.v1.dbo.epam_revenueplanBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.stag.v2.dbo.epam_exchange_rateBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-crm.stag.v2.dbo.epam_projectBase",
+                "amount": 1
+            },
+            {
+                "value": "epm-hero.stag.v1.heroes",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-file-replication.public",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-file-replication2.public",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-file-replication2.public.l_group_members",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-prod.public",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.c_reject_reason",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.em_crm_opportunity",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.l_group_permission_template",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.m_employees",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.m_feedback",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint-v4.public.m_groups",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf-qaint.public.m_bucket",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.integration.v1.public",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.integration.v7.public.c_location_code",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.integration.v7.public.em_crm_opportunity",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.integration.v7.public.m_recent_view_item",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.location.dev.v1.public",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.qa.v1.public.m_groups",
+                "amount": 1
+            },
+            {
+                "value": "epm-staf.test.public",
+                "amount": 1
+            },
+            {
+                "value": "epm.fico.sap.stage",
+                "amount": 1
+            },
+            {
+                "value": "fayvadxhvtdgpdlhyzvey",
+                "amount": 1
+            },
+            {
+                "value": "nmspc2",
+                "amount": 1
+            },
+            {
+                "value": "nmspc5",
+                "amount": 1
+            },
+            {
+                "value": "oriwqaqwuqektkofsdhedvacwvv",
+                "amount": 1
+            },
+            {
+                "value": "ovuatlrzdefnyymnjnkxernsvtsrgp",
+                "amount": 1
+            },
+            {
+                "value": "pesstqvlynkowqlmvxzeldpvtcibyxmdy",
+                "amount": 1
+            },
+            {
+                "value": "qgqbenowqq",
+                "amount": 1
+            },
+            {
+                "value": "qmobhs",
+                "amount": 1
+            },
+            {
+                "value": "saiboakehchuacssymkumrh",
+                "amount": 1
+            },
+            {
+                "value": "stheuv",
+                "amount": 1
+            },
+            {
+                "value": "testNamespace",
+                "amount": 1
+            },
+            {
+                "value": "ukurjkntcidipcyiktdrgwop",
+                "amount": 1
+            },
+            {
+                "value": "vdqnaqvarkcsgwik",
+                "amount": 1
+            },
+            {
+                "value": "yirzemrumpxn",
+                "amount": 1
+            },
+            {
+                "value": "zfllyyaclahkl",
+                "amount": 1
+            }
+        ],
+        "version": [
+            {
+                "value": "1",
+                "amount": 674
+            },
+            {
+                "value": "2",
+                "amount": 275
+            },
+            {
+                "value": "3",
+                "amount": 113
+            },
+            {
+                "value": "4",
+                "amount": 10
+            },
+            {
+                "value": "5",
+                "amount": 6
+            },
+            {
+                "value": "6",
+                "amount": 5
+            },
+            {
+                "value": "7",
+                "amount": 4
+            },
+            {
+                "value": "8",
+                "amount": 3
+            },
+            {
+                "value": "9",
+                "amount": 3
+            },
+            {
+                "value": "10",
+                "amount": 3
+            },
+            {
+                "value": "11",
+                "amount": 1
+            },
+            {
+                "value": "12",
+                "amount": 1
+            },
+            {
+                "value": "13",
+                "amount": 1
+            }
+        ],
+        "compatibility": [
+            {
+                "value": "BACKWARD",
+                "amount": 1099
+            }
+        ]
+    }
+}

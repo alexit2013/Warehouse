@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.schema-reg {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  header {
+    position: static;
+  }
+
+  main {
+    padding: 20px;
+  }
+}
+
+.schema-reg-child {
+  padding: 0;
+}
+
+.schema-reg-child:not(:first-child) {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.fade-animation {
+  animation:fadeIn ease-in 1;
+  animation-duration:0.2s;
+}
+
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }

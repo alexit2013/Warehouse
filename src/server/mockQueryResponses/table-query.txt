@@ -1,0 +1,3348 @@
+[
+    {
+        "field": "Constant",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "BatchID",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "BatchDate",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "SequenceNumber",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_EMP_ID",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_LAST_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_FIRST_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_MI",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_CUSTOM21",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_1",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_2",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_3",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_4",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_5",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EMP_ORG_UNIT_6",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_16",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_17",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_18",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_19",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_20",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_21",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_22",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_23",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_24",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_25",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_26",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_27",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_28",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_29",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_30",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_31",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_32",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_33",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_34",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_35",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_36",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_37",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_38",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_REQ_ID",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_AR_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "LEDGER_LEDGER_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_ALPHA_CODE_42",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "COUNTRY_LANG_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_SUBMIT_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_START_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_START_TIME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_END_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_END_TIME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_TTL_POSTED_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_TTL_APP_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_TTL_REMAINING_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_POLICY_LANG_LABEL",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_AUTHORIZED_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM1",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM2",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM3",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM4",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM5",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM6",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM7",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM8",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM9",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM10",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM11",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM12",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM13",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM14",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM15",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM16",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM17",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM18",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM19",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CUSTOM20",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_AGENCY_OFFICE_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "TRAV_AGENCY_OFFICE_AGENCY_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_APS_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "LOCATION_NAME_NAME_78",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CTRY_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_CTRY_SUB_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_EXPIRATION_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_TTL_POST_APP_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CA_RELATED",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_BUDGET_ACCRUAL_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AUTH_REQ_AR_TYPE_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_86",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_87",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_88",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ARE_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "EXPENSE_TYPE_LANG_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_TRAN_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_ALPHA_CODE_92",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_EXCH_RATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_EXCH_RATE_DIRECTION",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_DESCRIPTION",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_1",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_2",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_3",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_4",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_5",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_ORG_UNIT_6",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM1",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM2",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM3",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM4",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM5",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM6",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM7",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM8",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM9",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM10",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM11",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM12",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM13",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM14",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM15",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM16",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM17",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM18",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM19",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM20",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM21",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM22",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM23",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM24",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM25",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM26",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM27",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM28",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM29",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM30",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM31",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM32",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM33",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM34",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM35",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM36",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM37",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM38",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM39",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CUSTOM40",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_TRAN_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_POSTED_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_APP_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_REMAINING_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_VEN_LI_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_VENDOR_DESCRIPTION",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "LOCATION_NAME_NAME_148",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CTRY_SUB_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ENT_CTRY_CODE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_151",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_152",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_153",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_154",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_155",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_156",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_157",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_158",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_159",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_160",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_161",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_162",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_AR_ALLOC_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_PERCENTAGE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM1",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM2",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM3",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM4",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM5",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM6",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM7",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM8",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM9",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM10",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM11",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM12",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM13",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM14",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM15",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM16",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM17",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM18",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM19",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "AR_ALLOC_CUSTOM20",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_185",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_186",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_187",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_188",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_189",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CASH_ADVANCE_REQ_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_ALPHA_CODE_191",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_NUM_CODE_192",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CASH_ADVANCE_EXCH_RATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_ALPHA_CODE_194",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CUR_NUM_CODE_195",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CASH_ADVANCE_ISSUED_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "PROC_CODE_LANG_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CASH_ADVANCE_REQ_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "CASH_ADVANCE_CA_KEY",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_200",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_201",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_202",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_203",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_204",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_205",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_206",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_207",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_208",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_209",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_210",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_211",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_212",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_213",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_214",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_215",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_216",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_217",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_218",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_219",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_NAME",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_VW_TTL_POSTED_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_VW_TTL_APP_AMNT",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_SUBMIT_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_USER_DEFINED_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_PROCESSING_PROC_DATE",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "RPT_RPT_ID",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_227",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_228",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_229",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_230",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_231",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_232",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_233",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_234",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "Future_Use_235",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "VIRT_AR_FLD_MD_EVENT_REQ_ID",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "VIRT_AR_FLD_MD_RISK_LEVEL",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "VIRT_AR_FLD_MD_MAX_RISK_LEVEL",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    },
+    {
+        "field": "VIRT_ARE_FLD_MD_RISK_LEVEL",
+        "type": "RECORD",
+        "logicalType": null,
+        "defaultValue": null,
+        "metadata": {
+            "doc": "Some text",
+            "attributes": {
+                "key": "value"
+            },
+            "inherited": true,
+            "originSchemaVersion": 4
+        }
+    }
+]
